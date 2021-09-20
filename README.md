@@ -43,6 +43,8 @@ Les règles appliquées à eslint sont :
         node :true
     }
 }
+
+Ces règles définissent l'environnement dans lequel le js est executé et si le dossier courant est le dossier parent
 ```
 <br> 
 
@@ -50,7 +52,7 @@ Les règles appliquées à eslint sont :
 ### What is the difference between scoped and non-scoped CSS?
 
 ```
-
+Le css scoped est appliqué seulement au composant courant, à l'inverse du css non-scoped qui lui est appliqué à tous les éléments de la page
 ```
 <br> 
 

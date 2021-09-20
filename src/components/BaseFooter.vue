@@ -21,6 +21,8 @@ export default {
   margin: 0;
   padding: 1rem;
   bottom: 0;
+  position: absolute;
+  width: 100%;
 }
 .footer-element {
   margin: auto;

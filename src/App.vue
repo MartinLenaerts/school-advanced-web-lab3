@@ -1,7 +1,9 @@
 <template>
-  <base-header />
-  <home-page />
-  <base-footer />
+  <container>
+    <base-header />
+    <home-page />
+    <base-footer />
+  </container>
 </template>
 
 
